@@ -51,7 +51,7 @@ export default function Hero() {
               </a>
               
               {/* Resume Download Button */}
-              <a href="/resume.pdf"
+              <a href="/images/Resume.png"
   target="_blank"
   rel="noopener noreferrer"
   className="w-full sm:w-auto px-6 py-3 bg-zinc-900 text-white rounded-lg font-medium tracking-wide hover:bg-zinc-800 transition-all duration-300 inline-flex items-center justify-center gap-2 border border-zinc-800"
